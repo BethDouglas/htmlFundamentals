@@ -1,0 +1,9 @@
+	.coralBackground {
+		background-color: #f46b42;
+	}
+	.smallBorder {
+		border: 2px solid black;
+	}
+	.largeRedBorder {
+		border: 10px solid red;
+	}
