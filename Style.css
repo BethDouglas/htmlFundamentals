@@ -1,9 +1,13 @@
-	.coralBackground {
-		background-color: #f46b42;
+	.greenBackground {
+		background-color: #20aa37;
 	}
-	.smallBorder {
-		border: 2px solid black;
+	.redBackground {
+		background-color: #ef3e3e;
+		width: 70%;
+		float: left;
 	}
-	.largeRedBorder {
-		border: 10px solid red;
+	.yellowBackground {
+		background-color: #fce879;
+		width: 30%;
+		float: right;
 	}
